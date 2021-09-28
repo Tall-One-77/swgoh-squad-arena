@@ -1,10 +1,242 @@
 [
   {
     "name": "Tall One",
-    "comment": "useIcon accepts emoji or any other text",
+    "comment": "",
     "allyCode": "624699123",
     "userIcon": ":flag_gb:",
     "tagIdOnDrop": "401145718905110548",
-    "tagIdOnClimb": "401145718905110548"
+    "tagIdOnClimb": ""
   },
+  {
+    "name": "nblock300",
+    "comment": "",
+    "allyCode": "823958687",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Dreamsmasher",
+    "comment": "",
+    "allyCode": "237622651",
+    "userIcon": "",
+    "tagIdOnDrop": "531325877792014336",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Mike SkyDancer",
+    "comment": "",
+    "allyCode": "922282883",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Kayden",
+    "comment": "",
+    "allyCode": "986711157",
+    "userIcon": "",
+    "tagIdOnDrop": "322609910196207617",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "DarthFros",
+    "comment": "",
+    "allyCode": "899537686",
+    "userIcon": "",
+    "tagIdOnDrop": "300599494767017994",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "SequesterMD",
+    "comment": "",
+    "allyCode": "973131127",
+    "userIcon": "",
+    "tagIdOnDrop": "378204444371976193",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Panamon",
+    "comment": "",
+    "allyCode": "935795417",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Pol Entar",
+    "comment": "",
+    "allyCode": "169967742",
+    "userIcon": "",
+    "tagIdOnDrop": "411984667122728981",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Ipe",
+    "comment": "",
+    "allyCode": "455932785",
+    "userIcon": "",
+    "tagIdOnDrop": "317321099614355458",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Hawk",
+    "comment": "",
+    "allyCode": "366881892",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Belzy",
+    "comment": "",
+    "allyCode": "237252671",
+    "userIcon": "",
+    "tagIdOnDrop": "408701359098167306",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Vaexqua",
+    "comment": "",
+    "allyCode": "681971255",
+    "userIcon": "",
+    "tagIdOnDrop": "304979587337682944",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Chosen One",
+    "comment": "",
+    "allyCode": "757538413",
+    "userIcon": "",
+    "tagIdOnDrop": "716365248898007150",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Kykan",
+    "comment": "",
+    "allyCode": "499114534",
+    "userIcon": "",
+    "tagIdOnDrop": "323539109324914688",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Sling",
+    "comment": "",
+    "allyCode": "378248599",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Edel",
+    "comment": "",
+    "allyCode": "742561141",
+    "userIcon": "",
+    "tagIdOnDrop": "566394220647153665",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Skyes of Arcadia",
+    "comment": "",
+    "allyCode": "375112739",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Mollynut",
+    "comment": "",
+    "allyCode": "916525394",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Nick",
+    "comment": "",
+    "allyCode": "853635748",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Dabro11",
+    "comment": "",
+    "allyCode": "592776982",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "ΞU Satur1ke",
+    "comment": "",
+    "allyCode": "741341649",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "ΞU Satur1ke",
+    "comment": "",
+    "allyCode": "741341649",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Kirk",
+    "comment": "",
+    "allyCode": "113891465",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Shropshire Slasher",
+    "comment": "",
+    "allyCode": "983565927",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Poopiepuppy",
+    "comment": "",
+    "allyCode": "133617753",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Peldor Varga",
+    "comment": "",
+    "allyCode": "163844141",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "MrTrx",
+    "comment": "",
+    "allyCode": "316233597",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Beastie",
+    "comment": "",
+    "allyCode": "263314457",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "AussieAlex12345",
+    "comment": "",
+    "allyCode": "295182122",
+    "userIcon": ":enemy:626856026674823170",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  }
 ]
